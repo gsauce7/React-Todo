@@ -67,7 +67,7 @@ h3 {
 
 .item.completed{
     text-decoration: line-through;
-    color: red;
+    color: black;
 } 
 
 form > input {
@@ -96,3 +96,5 @@ form > input {
     width: 100%;
     margin: 0 auto;
   } 
+
+  
