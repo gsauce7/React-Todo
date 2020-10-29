@@ -50,7 +50,7 @@ class App extends React.Component {
 				...this.state.toDo,
 				{
 					task: name,
-					id: this.state.toDo.length,
+					id: Date.now(),
 					completed: false,
 				},
 			],
